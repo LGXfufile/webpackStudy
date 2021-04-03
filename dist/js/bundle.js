@@ -1,0 +1,1 @@
+(()=>{var r={645:(r,t)=>{t.sayhi=function(){document.write("<h1>xinxin</h1>")}}},t={};(function i(n){var e=t[n];if(void 0!==e)return e.exports;var o=t[n]={exports:{}};return r[n](o,o.exports,i),o.exports})(645).sayhi()})();
